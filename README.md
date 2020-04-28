@@ -16,4 +16,4 @@ No dia 10/04/2020, Chine é o país que tem o maior número de recuperados com 6
 3) Por quê juntar os países?
 Porque eu quero saber os recuperados totais por dia ou os infectados totais por dia ou o tempo que for definido, seria a somatória de todos os países.
 4) Vamos ser otimistas, aplique a aula de hoje na base de “Recuperados”.
-Exercício: 
+Exercício: https://github.com/emihiratuka/EXERCICIO_SERIE_TEMPORAL_AULA_ESPECIAL_4_11_04_2020
